@@ -10,9 +10,9 @@
     xmlns:photomechanic="http://ns.camerabits.com/photomechanic/1.0/"
    photoshop:City="Neuchâtel"
    photoshop:Country="Switzerland"
-   photoshop:DateCreated="2019-11-02"
+   photoshop:DateCreated="2019-12-04"
    xmpRights:WebStatement="https://www.unihockey-fotos.ch"
-   xmp:CreateDate="2019-11-02"
+   xmp:CreateDate="2019-12-04"
    Iptc4xmpCore:CountryCode="CH"
    Iptc4xmpCore:Location="Halle de sport de la Riveraine"
    photomechanic:ColorClassEval="0"
@@ -50,6 +50,9 @@
      <rdf:li>Women World Floorball Championships</rdf:li>
      <rdf:li>Women World Floorball Championships 2019</rdf:li>
      <rdf:li>World Floorball Championships 2019</rdf:li>
+     <rdf:li>floorballized</rdf:li>
+     <rdf:li>wfcNeuchâtel2019</rdf:li>
+     <rdf:li>wfcNeuchâtel</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <dc:description>
